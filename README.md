@@ -1,0 +1,3 @@
+Har du kommit på dig själv med att bara länka flera `.Where(i => i.Text.Contains(search))` i dina Linq-queries för att få din sökning att fungera korrekt? Vi brukade göra det förut och det blev fort väldigt bökigt och fult. Självklart kan man använda sig av avancerade paket och distribuerade sökfunktioner för att få till en bra sökning, men ibland vill du bara ha något väldigt enkelt. Här har vi en lösning.
+
+Skriven som en del av vår bloggserie på https://dispono.se/posts. Inlägget finns att läsas [här](https://dispono.se/posts/searchable).
